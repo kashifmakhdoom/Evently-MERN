@@ -11,8 +11,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Evently',
-  description: 'Evently is an event management platform',
+  title: 'Eventplace 365',
+  description:
+    'Eventplace 365 is an event management platform around the clock: 24/7/365',
   icons: {
     icon: '/assets/images/logo.svg',
   },
