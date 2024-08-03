@@ -1,6 +1,6 @@
 ## Screenshot
 
-![Eventplace 365](https://github.com/kashifmakhdoom/Eventplace365-MERN/main/src/assets/screenshot.png)
+![Eventplace 365](https://github.com/kashifmakhdoom/Eventplace365-MERN/tree/main/public/assets/screenshot.png)
 
 ## Project Overview
 
