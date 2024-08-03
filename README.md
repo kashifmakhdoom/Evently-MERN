@@ -1,6 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Screenshot
+
+![Eventplace 365](https://github.com/kashifmakhdoom/Eventplace365-MERN/main/src/assets/screenshot.png)
+
+## Project Overview
+
+Eventplace 365 is an event management marketplace, where the users can host their events as well as manage them. Other users can register and buy tickets.
+
+Features include:
+
+- User Authentication / Authorization using Clerk,
+- Real-time data fetching and storing using Mongo Atlas
+- NextJS API calls and Actions for each entity
+- Users can list, search, filter, detail events hosted,
+- User can host their own events as well as can manage them,
+- Mobile / Tablet responsive
+
+## Upcoming Features / Fixes:
+
+- AI functionality for image and voice to be included
+- Clerk Organizationa and Team Management feature to be included
+- Anything further: improvements, error fixing, code refactoring, etc.
+
+## Demo Site
+
+https://eventplace-365.vercel.app/
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 

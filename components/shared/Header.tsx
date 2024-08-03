@@ -10,14 +10,22 @@ const Header = () => {
   return (
     <header className='w-full border-b'>
       <div className='wrapper flex items-center justify-between'>
-        <Link href='/' className='w-36'>
-          <Image
-            src='/assets/images/logo.svg'
-            width={128}
-            height={38}
-            alt='Evently Logo'
-          />
-        </Link>
+        <div className='flex justify-between'>
+          <Link href='/'>
+            <div className='flex justify-between'>
+              <Image
+                src='/assets/images/logo.png'
+                width={220}
+                height={140}
+                alt='Eventplace Logo'
+              />
+              {/* <span className='text-2xl font-semibold decoration-dotted'>
+                Eventplace 365
+              </span> */}
+            </div>
+          </Link>
+        </div>
+
         <SignedIn>
           <nav className='md:flex-between hidden w-full max-w-xs'>
             <NavItems />

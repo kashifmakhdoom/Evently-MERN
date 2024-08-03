@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     'Eventplace 365 is an event management platform around the clock: 24/7/365',
   icons: {
-    icon: '/assets/images/logo.svg',
+    icon: '/assets/images/eventplace-logo.svg',
   },
 };
 
